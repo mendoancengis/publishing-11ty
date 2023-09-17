@@ -6,7 +6,7 @@ layout : base.njk
 
 ![{{title}}]({{img | url}})
 
-The Stargazers ADALAH are members of the _Intergalactic Alliance_ paving the way for peace and benevolence among all species. They are known for their enthusiasm for science, for their love of fun, and their dedication to education.
+The Stargazers ADALAH adalah are members of the _Intergalactic Alliance_ paving the way for peace and benevolence among all species. They are known for their enthusiasm for science, for their love of fun, and their dedication to education.
 
 <p>The Stargazers are members of the <em>Intergalactic Alliance</em> paving the way for peace and benevolence among all species. They are known for their enthusiasm for science, for their love of fun, and their dedication to education.</p>
 <h1>Communication</h1>
