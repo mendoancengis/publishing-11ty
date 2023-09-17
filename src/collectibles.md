@@ -4,7 +4,7 @@ img : /images/logo_bigstar.svg
 layout : base.njk
 ---
 
-![{{title}}]({{img}})
+![{{title}}]({{img | url}})
 
 
 

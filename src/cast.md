@@ -12,7 +12,7 @@ Stargazers are fluent in **JavaScript**, so once you connect to their network, s
 console.log("Take me to your leader");
 ```
 # Aneirin
- # ![Aneirin](/images/aneirin_tn.svg)
+ # ![Aneirin]({{'/images/aneirin_tn.svg' | url}})
 
 Aneirin is the foremost expert of cold climates in planetoids universe-wide, with a particular inquisitiveness in areas colder than -300 F / - 184.4444444 C (hence the profound personal interest in knitting mittens). Having travelled extensively, Aneirin enjoys collecting, receiving, and sending distinctive postcards from all corners of the macrocosm.
 
