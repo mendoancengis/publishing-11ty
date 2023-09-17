@@ -1,0 +1,17 @@
+{
+  "name": "publishing-11ty",
+  "version": "1.0.0",
+  "description": "11ty Publishing Sample",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "ant ed",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "markdown-it": "^13.0.1",
+    "markdown-it-attrs": "^4.1.6"
+  }
+}
