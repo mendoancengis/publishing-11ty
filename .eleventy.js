@@ -11,7 +11,7 @@ module.exports = eleventyConfig => {
     eleventyConfig.setLibrary('md', markdownLib);
     eleventyConfig.markdownTemplateEngine = 'njk';
     return {
-        pathPrefix: '/publishing-11ty',
+        pathPrefix: '/mendoancengis/publishing-11ty',
         dir: {
             input: "src",
             output: "docs"
